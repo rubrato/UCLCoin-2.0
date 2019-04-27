@@ -23,7 +23,7 @@ Considerações:
 
 •	Cada transação tem o custo de 2 UCLCoins a serem descontadas do valor da transação.
 
-•	Todos devem ter a cópia do caderno das transações.
+•	Todos devem ter sua Blockchain sincronizada.
 
 
 
