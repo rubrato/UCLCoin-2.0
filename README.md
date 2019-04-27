@@ -1,5 +1,6 @@
 # UCLCoin-2.0
 UCLCoin Algoritmo de Consenso 2.0
+
 1º Passo: Realizar um Fork do Git do Orgito (https://github.com/orgito/uclcoin).
 
 2º Passo: Seguir todas as instruções do Git acima.
