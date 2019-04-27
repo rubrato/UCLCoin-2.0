@@ -1,5 +1,6 @@
 # UCLCoin-2.0
 UCLCoin Algoritmo de Consenso 2.0
+Este algoritmo irá utilizar o Consenso de Prova de trabalho (Proof of Work- https://pt.wikipedia.org/wiki/Prova_de_trabalho) . 
 
 1º Passo: Realizar um Fork do Git do Orgito (https://github.com/orgito/uclcoin).
 
@@ -14,4 +15,17 @@ AZURE: https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-
 
 5º Passo: No campo URL forneça a rota (link do WebApp) para validar o bloco deve ser <seu_servidor>
 
-Atenção: Seu servidor deve conter a rota /block.
+Considerações:
+
+•	Bloco Gênesis: Todas as contas @ucl.br irão receber 50 UCLCoins quando começar a minerar.
+
+•	A requisição será enviada a todos mineradores (broadcast), os dois primeiros mineradores a responder ganhará a recompensa (1 UCLCoin).
+
+•	Cada transação tem o custo de 2 UCLCoins a serem descontadas do valor da transação.
+
+•	Todos devem ter a cópia do caderno das transações.
+
+
+
+
+
